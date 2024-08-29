@@ -3,7 +3,7 @@
 **.NET** kross platforma hisoblanib dasturchilar uchun IOT, Mobile, Desktop, Web, Game turdagi maxsulotlar ishlab chiqish uchun mo'ljallangan.
 
 
-![image1](/assets/image1.png)l
+![image1](image1.png)l
 
 ## **.NET ni yuklash**
 Barcharga ma'lumki, .NET frameworklarining 3 turi hozirda faoliyatda. ".NET Framework", ".NET Core", ".NET5". Uchchala frameworkda ham SDK va Runtime bor. .NET SDK - dasturning qurilishi va ishga tushishini taminlaydi. .NET Runtime - Dasturning ishga tushishini taminlaydi xolos. Aytmoqchimanki, SDK o'zining ichiga Runtime ni ham oladi. Agar o'zining ichiga olsa nega kerak?
