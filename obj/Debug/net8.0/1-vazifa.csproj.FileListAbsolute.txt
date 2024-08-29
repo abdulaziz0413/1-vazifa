@@ -1,0 +1,14 @@
+D:\Tarteeb7\1-vazifa\bin\Debug\net8.0\1-vazifa.exe
+D:\Tarteeb7\1-vazifa\bin\Debug\net8.0\1-vazifa.deps.json
+D:\Tarteeb7\1-vazifa\bin\Debug\net8.0\1-vazifa.runtimeconfig.json
+D:\Tarteeb7\1-vazifa\bin\Debug\net8.0\1-vazifa.dll
+D:\Tarteeb7\1-vazifa\bin\Debug\net8.0\1-vazifa.pdb
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.AssemblyInfoInputs.cache
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.AssemblyInfo.cs
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.csproj.CoreCompileInputs.cache
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.dll
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\refint\1-vazifa.dll
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.pdb
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\1-vazifa.genruntimeconfig.cache
+D:\Tarteeb7\1-vazifa\obj\Debug\net8.0\ref\1-vazifa.dll
